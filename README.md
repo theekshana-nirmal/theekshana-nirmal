@@ -12,7 +12,7 @@ Throughout my studies, I have immersed myself in various courses related to comp
 
 ### Skills & Expertise 🔧
 
-- **Programming Languages**: Proficient in HTML, CSS, JavaScript, and SQL.
+- **Programming Languages**: Proficient in C, Java, PHP, JavaScript, and SQL.
 - **Web Development**: Experienced in creating dynamic and responsive websites.
 - **Database Management**: Skilled in SQL for managing and querying data.
 
