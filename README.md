@@ -8,7 +8,7 @@ Throughout my studies, I have immersed myself in various courses related to comp
 
 ### My Projects 💡
 
-- **Study Bees**: A platform designed to help Sri Lankan students find the ideal study partners. This project, developed with my amazing team, aims to foster a supportive learning community by leveraging HTML, CSS, JavaScript, PHP and SQL to create an interactive and user-friendly experience.
+- **Study Bees**: A platform designed to help students find the ideal study partners. This project, developed with my amazing team, aims to foster a supportive learning community by leveraging HTML, CSS, JavaScript, PHP and SQL to create an interactive and user-friendly experience.
 
 ### Skills & Expertise 🔧
 
