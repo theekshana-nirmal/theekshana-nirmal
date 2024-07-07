@@ -25,3 +25,4 @@ I am eager to leverage my skills and knowledge to contribute positively to the I
 - Email: [theekshanab1234@gmail.com](theekshanab1234@gmail.com)
 
 Thank you for visiting my profile! I look forward to connecting with you and exploring exciting opportunities in the world of ICT.
+![](https://komarev.com/ghpvc/?username=theekshana-nirmal&color=green)
