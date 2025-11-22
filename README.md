@@ -22,13 +22,13 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
-I'm **Theekshana Nirmal**, currently pursuing a **Bachelor of Information and Communication Technology (Hons)** degree at **Uva Wellassa University**, Sri Lanka. I'm actively developing my skills in **full stack application development** and refining my expertise in **System and Database Design**.
+I'm Theekshana Nirmal, currently pursuing a Bachelor of Information and Communication Technology (Hons) degree at Uva Wellassa University, Sri Lanka. I'm actively developing my skills in full stack application development and refining my expertise in System and Database Design.
 
-As a **Java and Spring Boot enthusiast** with growing full stack experience in **React and Next.js**, I build end-to-end applications that emphasize clean architecture, RESTful APIs, and modern frontend design. I focus on writing scalable code and creating practical solutions that solve real user problems.
+As a Java and Spring Boot enthusiast with growing full stack experience in React and Next.js, I build end-to-end applications that emphasize clean architecture, RESTful APIs, and modern frontend design. I focus on writing scalable code and creating practical solutions that solve real user problems.
 
-🎯 **Currently focused on:** Java, Spring Boot, React, and Next.js
+**Currently focused on:** Java, Spring Boot, React, and Next.js
 
 💡 Open to working on meaningful projects that strengthen my skills, contribute to impactful outcomes, and accelerate my learning journey.
 
@@ -64,7 +64,7 @@ As a **Java and Spring Boot enthusiast** with growing full stack experience in *
 
 ## 💼 Projects
 
-### 🎯 **Connectra - Online Meeting Platform** `Ongoing`
+### **Connectra - Online Meeting Platform** `Ongoing`
 
 _Full Stack Developer | System Planner_
 
@@ -85,7 +85,7 @@ Backend API for Connectra, a secure University Online Meeting & Classroom Platfo
 
 ---
 
-### 📚 **Learning Management System** `Ongoing`
+### **Learning Management System** `Ongoing`
 
 _Full Stack Developer_
 
@@ -106,7 +106,7 @@ A comprehensive university learning platform that enables students and teachers 
 
 ---
 
-### 🐾 **Happy Tails** `Ongoing`
+### **Happy Tails** `Ongoing`
 
 _Backend Developer (Contributing)_
 
@@ -123,7 +123,7 @@ A web-based platform aimed at helping users track strays, report injured or sick
 
 ---
 
-### 🤝 **Share Mate**
+### **Share Mate**
 
 _Frontend Developer (Contributed)_
 
@@ -140,7 +140,7 @@ A full-stack web app that facilitates borrowing and lending of items within the 
 
 ---
 
-### 📖 **Study Bees**
+### **Study Bees**
 
 _Developer_
 
