@@ -2,7 +2,7 @@
 
 # Theekshana Nirmal
 
-### Full Stack Developer
+### ICT Undergraduate | Full Stack Developer
 
 Building scalable web applications with modern technologies and clean architecture
 
